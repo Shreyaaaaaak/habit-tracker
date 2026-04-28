@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-Then open [http://localhost:5173](http://localhost:5173).
+Then open  (https://habit-tracker-a4ae-cgfxpdsv5-shreyak3720-5755s-projects.vercel.app/)
 
 ## Build
 
